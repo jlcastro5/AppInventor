@@ -20,6 +20,8 @@
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
+  *Pantalla Principal*
+
    Realizamos primeramente nuestra pantalla principal la cual se mostrara cuando se abra nuestra aplicacion, y nos permita observar distintas opciones la cuales representa si el usuario desea calcular valores en serie, paralelo o aplicar la ley de ohm, por lo que cada una de las opciones fueron analizadas y estudiadas con diferentes bloques de programacion para que realice su respectiva resolucion del problema.
 
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/principal.PNG)
@@ -28,9 +30,11 @@
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/intro.PNG)
    
+   *Circuito en Serie*
+   
    Ahora el proceso para calcular valores en circuitos en serie, la cual conlleva a la siguiente imagen diseñada para calcular resistencia total y aplicar ley de ohm, la cual una breve introduccion nos dice que en un circuito en serie el numero de resistencia se suman lo cual nos llega a una resistencia total y conociendo que en un circuito en serie su corriente es la misma y el voltaje en cada componente es diferente y la suma de dichos voltajes es igual al voltaje de salida.
    
-   En la figura 4. Se muestra una calculadora la cual permitira ingresar valor y sumar el total, al momento de obtener el valor sumado, el boton **RT** , permitira tomar el valor y colocarlo en el campo de texto de Resistencia total y con los datos tanto puesto de un problema nos permitira calcular la intensidad de corriente o el voltaje de dicho circuito.
+  En la figura 4. Se muestra una calculadora la cual permitira ingresar valor y sumar el total, al momento de obtener el valor sumado, el boton **RT** , permitira tomar el valor y colocarlo en el campo de texto de Resistencia total y con los datos tanto puesto de un problema nos permitira calcular la intensidad de corriente o el voltaje de dicho circuito.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/serie.PNG)
    
@@ -50,6 +54,8 @@
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/igual.PNG)
    
+   *Circuito en Paralelo*
+   
    Para la resolucion de circuitos en paralelo tomamos en cuenta lo siguiente que en dichos circuitos la resistencia total es igual a la inversa, y que los voltajes es el mismo en todos sus componentes y la corriente que fluye en cada componente es diferentes en cada tramo que vaya, por lo tanto en nuestra ventana llamanda paralelo, realizaremos los siguientes procesos para calcular la resistencia equivalente  y las corrientes en cada resistencia.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/paralelo.PNG)
@@ -61,6 +67,8 @@
    Luego para la programacion para encontrar la resistencia equivalente, relizamos la inicializacion de todas las variables que vamos a necesitar y las cuales permitiran encontrar los valores a calcular, por lo cual el boton resolver realizar las difrentes operacion que seran la suma de las resistencia respectivamente para paralelo, calcular los valores de intensidad en cada componente seleccionado y la intensidad total que circula en todo el circuito.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/resistencia_equvalente.PNG)
+   
+   *Ley de ohm* 
    
    Por ultimo la resolucion aplicando la ley de ohm, que nos permitra obtener tanto intesidad, voltaje o resistencia aplicando la resolucion matematica en cada una de opciones escogida por el usuario, la cual en esta ventana se enfoca en la *Ley de ohm* para encontrar y asu vez una herramienta rapida para los valores totales de un circuito.
   
