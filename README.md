@@ -6,17 +6,14 @@
 
    Realizar una aplicacion que nos permita resolver ejercicios en serie,paralelo y ley ohm el cual nos permitan ingresar valores, por lo tanto permitir un procedimiento adecuado que conlleva a obtener el resultado previsto lo cual mediante codigos de bloques vamos adquirir los resultados de nuestra investigacion.
 
-
    Objetivos específicos
   
     * Comprender de forma especifica la resolucion de problemas tanto en serie y paralelo para tomar en cuenta teoria, y formulas que debemos aplicar y sobre todo la base la cual lleva hallar los calculos que queremos encontrar en nuestra aplicacion.
     * Desarrollar mediante codigos de bloques y una adeacuada intepretacion de su proceso ordenado, coherente y entendible para el usuario el cual va ser creado y sea una manera facil de utilizar esta aplicacion movil.
   
- 
-  
 2. MARCO TEORICO
 
-   ![]()
+   ![](https://github.com/jlcastro5/AppInventor/blob/09627f0f60c33fbea2f6ff60fd2b250127e1cadd/MarcoTeorico.png)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
