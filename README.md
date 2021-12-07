@@ -23,9 +23,13 @@
 
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/principal.PNG)
    
+   *Figura 2. Interfaz principal*
+   
    Los bloques al utilizar la pantalla principal es un comando simple la cual conlleva a un clic y realizar la actividad puesta, en este caso como se muestra en la figura 3. Cuando se aplaste o se haga clic en uno de los botones seleccionados se abrira la ventana correspondiente a dicho boton y asu vez un boton "Salir" que cerrara la aplicacion o a su vez utilizando los comandos del telefono movil.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/intro.PNG)
+   
+   *Figura 3. Bloques de control.*
    
    *Circuito en Serie*
    
@@ -35,21 +39,31 @@
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/serie.PNG)
    
+   *Figura 4. Interfaz grafica para circuitos en serie*
+   
    Para programar en esta ventana se utiliza bloques ya programados, los cuales lleva a realizar la inializacion de las variables que vamos a utilizar en este caso nos numeros de la calculadora y la operaciones que se realizaran en esta ventana llamada serie.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/Variables.PNG)
+   
+   *Figura 5. Declaracion de variables*
    
    Para la resistencia total su programacion esta en obtener el valor total y colocarlo en el campo de texto llamado resistenciaTotal el cual permitira calcular corriente o voltaje dependiendo del ejercicio.
   
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/resistencia_total.PNG)
    
+   *Figura 6. Crear los bloques para la resistencia total*
+   
    La programacion de los botones en nuestro caso la calculadora serea la siguiente manera mostrado en la figura 7. declararemos la accion del boton sumar la cual es realizar la operacion de suma de todos los numeros digitados y colocarlo en el label llamado resultado.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/boton.PNG)
    
+   *Figura 7. Declaraciones y mandos del boton suma*
+   
    El igual realizara y obtendra la suma total y colocarlo en el label resuultado el cual esta programado con bloques logicos de verdad o falso para verificar y tener una ideologia en el aspecto de si se ingresa valores se suman y se coloca el total o a la vez si no existe valores se desactivara el igual.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/igual.PNG)
+   
+   *Figura 8. Declaracion del boton igual*
    
    *Circuito en Paralelo*
    
@@ -57,13 +71,19 @@
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/paralelo.PNG)
    
+   *Fgura 9. Interfaz de la pantalla en paralelo*
+   
    Primero realizamos la verificacion y declaracion de los casilleros el cual va permitir seleccionar el numero de resistencia en este caso utilizamos hasta 4 resistencias que es lo mas comun en un circuito, la cual la opcion elejida por el usuario permitira calcular los valores requeridos y los que deseen obtener.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/casillaverificacion.PNG)
    
+   *Figura 10. Declaracion de casillas de verificacion*
+   
    Luego para la programacion para encontrar la resistencia equivalente, relizamos la inicializacion de todas las variables que vamos a necesitar y las cuales permitiran encontrar los valores a calcular, por lo cual el boton resolver realizar las difrentes operacion que seran la suma de las resistencia respectivamente para paralelo, calcular los valores de intensidad en cada componente seleccionado y la intensidad total que circula en todo el circuito.
    
    ![](https://github.com/jlcastro5/AppInventor/blob/bfd4b4f6bd5d770e64de344642be7c13fa218ddc/resistencia_equvalente.PNG)
+   
+   *Figura 11. Declaracion de variables y procedimiento a calcular la resistencia equivalente*
    
    *Ley de ohm* 
    
@@ -86,7 +106,7 @@
  
 4. VIDEO
 
-
+   https://www.youtube.com/watch?v=bRlzyyEIOOU
 
 5. CONCLUSIONES
 
