@@ -1,4 +1,4 @@
-# Informe Trabajo Extra Creacion de Aplicación móvil 
+# Informe Trabajo Extra Creación de una Aplicación móvil en App inventor para la resolución de ejercicios serie, paralelo y ley de ohm. 
 
 1. OBJETIVOS 
 
@@ -106,7 +106,9 @@
  
 4. VIDEO
 
-   https://www.youtube.com/watch?v=bRlzyyEIOOU
+   Explicacion de la creacion de la aplicacion: https://www.youtube.com/watch?v=bRlzyyEIOOU
+   
+   Funcionamiento de la aplicacion:  https://www.youtube.com/watch?v=AW034c2ntkY
 
 5. CONCLUSIONES
 
