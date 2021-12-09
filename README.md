@@ -114,3 +114,7 @@
 * La aplicacion es un codigo sencillo de manejar ya que con son bloques ya programados para un razonamiento preciso, por lo que obtener bases en programacion por una parte seria adecuado, para poder comprender de mejor manejar los mandos y acciones que queremos que realice nuestra apliacion, por lo cual lleva al estudio del control, matematico,logico,procedimientos y variables para que puedan realizar proyectos seguros y entendibles para los usuarios. 
 
 6. BIBLIOGRAFÍA 
+
+    Educarchile.cl. 2021. App Inventor - Plataforma de Google Labs para crear aplicaciones de software para Android. [online] Available at: <https://www.educarchile.cl/herramientas-tic/app-inventor-plataforma-de-google-labs-para-crear-aplicaciones-de-software-para> [Accessed 9 December 2021].
+
+    Kio4.com. 2021. App inventor español. Offline. Tutorial. Ejemplos. Instalación. Códigos. Juegos. Curso gratis de App inventor.. [online] Available at: <http://kio4.com/appinventor/> [Accessed 9 December 2021].
